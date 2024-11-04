@@ -171,4 +171,4 @@ Data de Última Atualização: 01/11/2024 10:30
 
 ---
 
-Esse projeto foi desenvolvido para fins educacionais e tem como objetivo fornecer uma solução prática de controle de inventário em C. Caso tenha dúvidas, consulte a [Documentação da Linguagem C](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170) para mais informações.
+Esse projeto foi desenvolvido para fins educacionais e tem como objetivo fornecer uma solução prática de controle de inventário em C. Caso tenha dúvidas, consulte a [Documentação da Linguagem C](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170) para mais informações.# stok-
